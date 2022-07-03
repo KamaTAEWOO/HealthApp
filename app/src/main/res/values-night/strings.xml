@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Health</string>
+    <string name="txt_logo">Health</string>
+    <string name="id">아이디</string>
+    <string name="password">비밀번호</string>
+    <string name="txt_login">LOGIN</string>
+    <string name="btn_login">로그인</string>
+    <string name="btn_send">전송</string>
+    <string name="btn_first">처음으로</string>
+    <string name="change">G</string>
+    <string name="txt_failLogin">아이디와 비밀번호가 맞지 않습니다.</string>
+    <string name="txt_maxLine">최대 18자 이내로 적어주세요.</string>
+    <string name="myInformation">정보를 입력해주세요.</string>
+    <string name="Goals">목표를 입력해주세요.</string>
+    <string name="txt_currentWeight">몸무게 기록</string>
+    <string name="txt_goal">목표</string>
+    <string name="txt_metabolic">기초대사량</string>
+    <string name="txt_tedd">TDEE(유지칼로리)</string>
+    <string name="txt_weightChange">체중 변화</string>
+    <string name="txt_name">이름</string>
+    <string name="txt_age">나이</string>
+    <string name="txt_helm">키</string>
+    <string name="txt_weight">몸무게</string>
+    <string name="txt_activity">활동량</string>
+    <string name="txt_high">고강도 운동</string>
+    <string name="txt_low">저~중강도 운동</string>
+    <string name="txt_sit">거의 안하거나 앉아있는 일</string>
+    <string name="txt_diet">다이어트(체중감소)</string>
+    <string name="txt_bulk">벌크업(체중증가)</string>
+    <string name="txt_goalKcal">목표 칼로리</string>
+    <string name="txt_carbohydrate">탄수화물</string>
+    <string name="txt_fat">지방</string>
+    <string name="txt_protein">단백질</string>
+    <string name="data_save">저장</string>
+    <string name="logout">로그아웃</string>
+</resources>
